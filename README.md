@@ -1,15 +1,13 @@
 # Superstore_Sales-Excel_Project
 
-This project was based on Superstore Sales Analysis using Microsoft Excel. The main objective was to understand how Excel can be used to clean, analyze, and summarize sales data to support business decision-making.
+I worked on an end-to-end Superstore Sales Analysis project using Microsoft Excel. The main objective was to analyze sales performance, understand profitability, and identify opportunities for business improvement.
 
-The project required me to work with Excel formulas, data cleaning techniques, sorting and filtering, PivotTables, lookup functions, conditional formatting, and report consolidation.
+The dataset contained 9,994 transaction rows, including order dates, customer information, product categories, regions, sales, discounts, and profit.
 
-I used formulas such as SUM, AVERAGE, IF, SUMIFS, and COUNTIFS to perform calculations and analyze records based on specific conditions. I also explored PivotTables to summarize sales by different business dimensions, such as region, product category, and time period.
+I used Excel formulas, data-cleaning techniques, PivotTables, conditional formatting, lookup functions, and charts to organize and analyze the data. I also created an executive dashboard to present key performance indicators and business findings.
 
-One of the main challenges was understanding how to prepare the data correctly before performing the analysis. I learned to check for duplicate records, missing values, inconsistent formatting, and formula errors. I also understood the importance of validating calculations to ensure that the final report was reliable.
+During the analysis, I found that the business generated approximately $2.30 million in sales and $286,397 in profit. The West region generated the highest sales and profit, while Technology was the strongest product category by both measures.
 
-The analysis can help identify high-performing regions, important product categories, top-selling products, and monthly sales trends. These findings can support better sales planning and resource allocation. However, I would validate each finding using the actual dataset before making a business recommendation.
+I also identified three sub-categories—Tables, Bookcases, and Supplies—that recorded negative aggregate profit. Based on these findings, I recommended reviewing discount strategies, product costs, and regional profitability.
 
-For improvement, I would recommend automating repetitive data-cleaning tasks, creating an interactive sales dashboard, analyzing profitability alongside revenue, and introducing a more structured reporting process.
-
-Overall, this project improved my practical Excel skills and helped me understand how data analysis can convert raw business data into meaningful information for decision-making.
+This project helped me strengthen my Excel skills and understand how to convert raw data into meaningful insights that can support business decisions.
