@@ -1,13 +1,86 @@
 # Superstore_Sales-Excel_Project
+1. Project Overview
 
-I worked on an end-to-end Superstore Sales Analysis project using Microsoft Excel. The main objective was to analyze sales performance, understand profitability, and identify opportunities for business improvement.
+This project analyses the Superstore sales dataset using Microsoft Excel. The work combines an end-to-end Excel practical assignment with an interactive executive dashboard. It focuses on preparing and analysing order-level data, summarising sales and profit performance, and presenting business findings in a format that is easy to explore.
 
-The dataset contained 9,994 transaction rows, including order dates, customer information, product categories, regions, sales, discounts, and profit.
+The dashboard includes Year, Region, Category and Sub-Category filters, KPI cards, trend charts, category and regional comparisons, and detailed performance tables.
 
-I used Excel formulas, data-cleaning techniques, PivotTables, conditional formatting, lookup functions, and charts to organize and analyze the data. I also created an executive dashboard to present key performance indicators and business findings.
+2. Business Requirements
 
-During the analysis, I found that the business generated approximately $2.30 million in sales and $286,397 in profit. The West region generated the highest sales and profit, while Technology was the strongest product category by both measures.
+The project was designed to address the following reporting needs:
 
-I also identified three sub-categories—Tables, Bookcases, and Supplies—that recorded negative aggregate profit. Based on these findings, I recommended reviewing discount strategies, product costs, and regional profitability.
+2.1 Performance Monitoring
 
-This project helped me strengthen my Excel skills and understand how to convert raw data into meaningful insights that can support business decisions.
+a) Track total sales and total profit.
+
+b) Monitor unique orders, unique customers and units sold.
+
+c) Compare annual sales and profit performance.
+
+2.2 Business Comparisons
+
+a) Compare sales and profit across the four regions: Central, East, South and West.
+
+b) Review performance across Furniture, Office Supplies and Technology.
+
+c) Identify sub-categories with comparatively high sales, low profit or negative profit.
+
+2.3 Interactive Reporting
+
+a) Allow users to filter the dashboard by year, region, category and sub-category.
+
+b) Present key information through KPI cards, charts and summary tables.
+
+c) Make it easier to move from an overall view to a more detailed performance view.
+
+3. Tools and Excel Features Used
+
+Primary tool: Microsoft Excel
+
+The workbook uses or demonstrates the following Excel capabilities:
+
+3.1 Formulas and Functions
+
+a) SUM, MAX, MIN, SMALL, LARGE, MEDIAN
+
+b) COUNT, COUNTA, COUNTBLANK
+
+c) IF, AND, OR, IFERROR
+
+d) TODAY, DATE, YEAR, MONTH, DAY, DATEDIF
+
+e) POWER for CAGR calculations
+
+f) VLOOKUP, HLOOKUP
+
+g) COUNTIF, SUMIF, AVERAGEIF, COUNTIFS, SUMIFS
+
+h) Text functions such as UPPER, PROPER, LOWER, TRIM, VALUE, LEN, LEFT, RIGHT, MID, SEARCH and FIND
+
+i) CONCATENATE and the ampersand (&) operator
+
+3.2 Data Preparation and Organisation
+
+a) Sorting and filtering
+
+b) Remove Duplicates and Find & Replace
+
+c) Text to Columns
+
+d) Go To Special
+
+e) Number formatting, Wrap Text and Format Painter
+
+f) Conditional Formatting
+
+g) Date calculations and date grouping
+
+3.3 Analysis and Reporting
+
+a) PivotTables and grouped summaries
+
+b) Consolidate across worksheets
+
+c) SUBTOTAL for filtered data
+
+d) Charts and dashboard slicers
